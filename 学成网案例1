@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>学成在线首页</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="top">
+        <div class="img1"></div>
+        <ul>
+            <li><a href="#">首页</a></li>
+            <li><a href="#">课程</a></li>
+            <li><a href="#">职业规划</a></li>
+        </ul>
+        <input type="text" class="text1">
+        <a href="#" class="img2"></a>
+        <a href="#" class="lk1">登录</a>
+    </div>
+
+    <div class="banner">
+        <div class="box">
+            <div class="box1">
+                <ul>
+                    <li><a href="#" class="first">前端开发</a></li>
+                    <li><a href="#">后端开发</a></li>
+                    <li><a href="#">移动开发</a></li>
+                    <li><a href="#">人工智能</a></li>
+                    <li><a href="#">商业预测</a></li>
+                    <li><a href="#">云计算＆大数据</a></li>
+                    <li><a href="#">运维＆从测试</a></li>
+                    <li><a href="#">UI设计</a></li>
+                    <li><a href="#" class="last">产品</a></li>
+                </ul>
+            </div>
+            <div class="box2"></div>
+        </div>
+    </div>
+
+    <div class="title">
+        <ul>
+            <li><a href="#">精品推荐</a></li>
+            <li><a href="#">JQuery</a></li>
+            <li><a href="#">Spark</a></li>
+            <li><a href="#">MySQL</a></li>
+            <li><a href="#">JavaWeb</a></li>
+            <li><a href="#">Python</a></li>
+            <li><a href="#">C++</a></li>
+            <li><a href="#">HTML</a></li>
+        </ul>
+        <span><a href="#">修改兴趣</a></span>
+    </div>
+    <h3 class="title1">精品推荐</h3>
+
+    <div class="body1">
+        <div class="d1">
+            <div class="dd1"></div>
+            <p>Think PHP 5.0博客系统实战项目演练</p>
+            <h4>高级</h4><span class="dian">·</span><span>1125人在学习</span>
+        </div>
+        <div class="d2">
+            <div class="dd2"></div>
+            <p>Android网络图片加载框架详解</p>
+            <h4>高级</h4><span class="dian">·</span><span>1125人在学习</span>
+        </div>
+        <div class="d3">
+            <div class="dd3"></div>
+            <p>Angular 2 最新框架+主流技术+项目实战</p>
+            <h4>高级</h4><span class="dian">·</span><span>1125人在学习</span>
+        </div>
+        <div class="d4">
+            <div class="dd4"></div>
+            <p>Android Hybrid APP开发实战H5+原生</p>
+            <h4>初级</h4><span class="dian">·</span><span>1125人在学习</span>
+        </div>
+        <div class="d5">
+            <div class="dd5"></div>
+            <p>Android Hybrid APP开发实战H5+原生</p>
+            <h4>高级</h4><span class="dian">·</span><span>4812人在学习</span>
+        </div>
+        <div class="d6">
+            <div class="dd6"></div>
+            <p>Think PHP 5.0博客系统实战项目演练</p>
+            <h4>高级</h4><span class="dian">·</span><span>1125人在学习</span>
+        </div>
+        <div class="d7">
+            <div class="dd7"></div>
+            <p>Android网络图片加载框架详解</p>
+            <h4>初级</h4><span class="dian">·</span><span>332人在学习</span>
+        </div>
+        <div class="d8">
+            <div class="dd8"></div>
+            <p>Angular 2 最新框架+主流技术+项目实战</p>
+            <h4>中级</h4><span class="dian">·</span><span>1412人在学习</span>
+        </div>
+        <div class="d9">
+            <div class="dd9"></div>
+            <p>Android Hybrid APP开发实战H5+原生</p>
+            <h4>中级</h4><span class="dian">·</span><span>893人在学习</span>
+        </div>
+        <div class="d10">
+            <div class="dd10"></div>
+            <p>Android Hybrid APP开发实战H5+原生</p>
+            <h4>qaq级</h4><span class="dian">·</span><span>555人在学习</span>
+        </div>
+    </div>
+
+    <div class="footer">
+        <div class="f1">
+            <div class="ff1">
+                <div class="img"></div>
+                <p class="p1">学成在线致力于普及中国最好的教育，与中国一流大学和机构合作提供在线课程。</p>
+                <p>2017年XTCG Inc. 保留所有权力。沪ICP备15025210号。</p>
+                <button>下载APP</button>
+            </div>
+            <div class="ff2">
+                <h3>合作伙伴</h3>
+                <ul>
+                    <li><a href="#">合作机构</a></li>
+                    <li><a href="#">合作导师</a></li>
+                </ul>
+            </div>
+            <div class="ff3">
+                <h3>新手指南</h3>
+                <ul>
+                    <li><a href="#">如何注册</a></li>
+                    <li><a href="#">如何选课</a></li>
+                    <li><a href="#">如何拿到毕业证</a></li>
+                    <li><a href="#">学分制是什么</a></li>
+                    <li><a href="#">考试未通过怎么办</a></li>
+                </ul>
+            </div>
+            <div class="ff4">
+                <h3>关于学成网</h3>
+                <ul>
+                    <li><a href="#">关于</a></li>
+                    <li><a href="#">管理团队</a></li>
+                    <li><a href="#">工作机会</a></li>
+                    <li><a href="#">客户服务</a></li>
+                    <li><a href="#">帮助</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
